@@ -38,7 +38,7 @@ Aplicación web de gestión de productos construida con **Next.js 16**, **TypeSc
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <url-del-repositorio>
+git clone <https://github.com/Damdev80/prueba-tecnica-next>
 cd prueba-tecnica
 ```
 
